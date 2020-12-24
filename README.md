@@ -4,5 +4,5 @@ To replicate all of the results, please run the script `replicator.R`. This will
 
 **Software requirements:** 
 
-- R 4.0.2 and `dplyr` 1.0.0
+- R 4.0.2 and `dplyr` 1.0.0 
 - Other required packages are listed atop the `replicator.R` file
